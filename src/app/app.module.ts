@@ -7,6 +7,8 @@ import { HomeComponent } from './components/home/home.component';
 import { ViolaoComponent } from './components/violao/violao.component';
 import { TecladoComponent } from './components/teclado/teclado.component';
 import { AboutComponent } from './components/about/about.component';
+import { NavbarComponent } from './components/layout/navbar/navbar.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -14,11 +16,13 @@ import { AboutComponent } from './components/about/about.component';
     HomeComponent,
     ViolaoComponent,
     TecladoComponent,
-    AboutComponent
+    AboutComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgbModule
   ],
   providers: [
     provideClientHydration()
