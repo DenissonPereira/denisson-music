@@ -5,6 +5,7 @@ import { ViolaoComponent } from './components/violao/violao.component';
 import { TecladoComponent } from './components/teclado/teclado.component';
 import { AboutComponent } from './components/about/about.component';
 import { BiografiaComponent } from './components/biografia/biografia.component';
+import { CentralComponent } from './components/central/central.component';
 
 const routes: Routes = [
   {path: '', redirectTo: '/home', pathMatch: 'full'},
@@ -12,6 +13,7 @@ const routes: Routes = [
   {path: 'violao', component: ViolaoComponent},
   {path: 'teclado', component: TecladoComponent},
   {path: 'biografia', component: BiografiaComponent},
+  {path: 'central', component: CentralComponent},
   {path: 'about', component: AboutComponent}
 ];
 

@@ -10,6 +10,7 @@ import { AboutComponent } from './components/about/about.component';
 import { NavbarComponent } from './components/layout/navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { BiografiaComponent } from './components/biografia/biografia.component';
+import { CentralComponent } from './components/central/central.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { BiografiaComponent } from './components/biografia/biografia.component';
     TecladoComponent,
     AboutComponent,
     NavbarComponent,
-    BiografiaComponent
+    BiografiaComponent,
+    CentralComponent
   ],
   imports: [
     BrowserModule,
