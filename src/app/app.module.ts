@@ -9,6 +9,7 @@ import { TecladoComponent } from './components/teclado/teclado.component';
 import { AboutComponent } from './components/about/about.component';
 import { NavbarComponent } from './components/layout/navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { BiografiaComponent } from './components/biografia/biografia.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     ViolaoComponent,
     TecladoComponent,
     AboutComponent,
-    NavbarComponent
+    NavbarComponent,
+    BiografiaComponent
   ],
   imports: [
     BrowserModule,
