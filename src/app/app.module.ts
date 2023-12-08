@@ -15,7 +15,8 @@ import { HeaderComponent } from './components/layout/header/header.component';
 
 
 import { NgIconsModule } from '@ng-icons/core';
-import { heroUsers } from '@ng-icons/heroicons/outline';
+import { heroUsers, heroArrowDown } from '@ng-icons/heroicons/outline';
+import { octBeaker } from '@ng-icons/octicons';
 
 
 @NgModule({
@@ -32,7 +33,7 @@ import { heroUsers } from '@ng-icons/heroicons/outline';
   ],
   imports: [
     BrowserModule,
-    NgIconsModule.withIcons({ heroUsers }),
+    NgIconsModule.withIcons({ heroUsers, octBeaker }),
     BrowserModule,
     AppRoutingModule,
     NgbModule
