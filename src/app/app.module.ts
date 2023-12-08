@@ -13,6 +13,11 @@ import { BiografiaComponent } from './components/pages/biografia/biografia.compo
 import { CentralComponent } from './components/pages/central/central.component';
 import { HeaderComponent } from './components/layout/header/header.component';
 
+
+import { NgIconsModule } from '@ng-icons/core';
+import { heroUsers } from '@ng-icons/heroicons/outline';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,6 +31,8 @@ import { HeaderComponent } from './components/layout/header/header.component';
     HeaderComponent
   ],
   imports: [
+    BrowserModule,
+    NgIconsModule.withIcons({ heroUsers }),
     BrowserModule,
     AppRoutingModule,
     NgbModule

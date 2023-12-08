@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './header.component.sass'
 })
 export class HeaderComponent {
+  deninho: string = '/assets/images/deninho.png'
 
 }
