@@ -15,7 +15,7 @@ import { HeaderComponent } from './components/layout/header/header.component';
 
 
 import { NgIconsModule } from '@ng-icons/core';
-import { bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple } from '@ng-icons/bootstrap-icons';
+import { bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple, bootstrapInstagram, bootstrapFacebook, bootstrapTwitter, bootstrapTwitch, bootstrapTiktok } from '@ng-icons/bootstrap-icons';
 import { simpleDeezer, simpleTidal } from '@ng-icons/simple-icons';
 import { RedesComponent } from './components/redes/redes.component';
 import { AgendaComponent } from './components/agenda/agenda.component';
@@ -34,11 +34,11 @@ import { jamNapster } from '@ng-icons/jam-icons';
     CentralComponent,
     HeaderComponent,
     RedesComponent,
-    AgendaComponent
+    AgendaComponent,
   ],
   imports: [
     BrowserModule,
-    NgIconsModule.withIcons({ bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple, simpleDeezer, simpleTidal, jamNapster }),
+    NgIconsModule.withIcons({ bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple, simpleDeezer, simpleTidal, jamNapster, bootstrapInstagram, bootstrapFacebook, bootstrapTwitter, bootstrapTwitch, bootstrapTiktok }),
     BrowserModule,
     AppRoutingModule,
     NgbModule
