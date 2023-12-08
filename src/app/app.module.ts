@@ -15,8 +15,9 @@ import { HeaderComponent } from './components/layout/header/header.component';
 
 
 import { NgIconsModule } from '@ng-icons/core';
-import { heroUsers, heroArrowDown } from '@ng-icons/heroicons/outline';
-import { octBeaker } from '@ng-icons/octicons';
+import { bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple } from '@ng-icons/bootstrap-icons';
+import { AgendaComponent } from './components/agenda/agenda.component';
+import { RedesComponent } from './components/redes/redes.component';
 
 
 @NgModule({
@@ -29,11 +30,13 @@ import { octBeaker } from '@ng-icons/octicons';
     NavbarComponent,
     BiografiaComponent,
     CentralComponent,
-    HeaderComponent
+    HeaderComponent,
+    AgendaComponent,
+    RedesComponent
   ],
   imports: [
     BrowserModule,
-    NgIconsModule.withIcons({ heroUsers, octBeaker }),
+    NgIconsModule.withIcons({ bootstrapYoutube, bootstrapSpotify, bootstrapFileMusic, bootstrapApple }),
     BrowserModule,
     AppRoutingModule,
     NgbModule

@@ -1,7 +1,41 @@
 @import '../../../sass/fontes'
-
+@import '../../../sass/mixins'
+@import '../../../sass/variables'
 
 
 .image_deninho
+    margin: 0px
+    padding: 0px
+    position: relative
+    width: 100%
     img
         width: 100%
+
+.descricao
+    @include center
+    flex-direction: column
+    position: absolute
+    width: 70em
+    left: 50%
+    transform: translate(-50%, -50%)
+    top: 90%
+    h2
+        color: $cor-laranja
+        text-shadow: 2px 2px 2px black
+
+.icons
+    @include center
+    font-size: 2em
+    align-content: center
+    position: absolute
+    margin-left: 50%
+    transform: translate(-50%, -50%)
+    z-index: 2
+    top: 95%
+    ng-icon
+        margin-right: 1em
+        color: $cor-branca
+        cursor: pointer
+        &:hover
+            font-size: 1.2em
+            filter: drop-shadow(10px 8px 6px orange)
