@@ -3,14 +3,15 @@ import { BrowserModule, provideClientHydration } from '@angular/platform-browser
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HomeComponent } from './components/home/home.component';
-import { ViolaoComponent } from './components/violao/violao.component';
-import { TecladoComponent } from './components/teclado/teclado.component';
-import { AboutComponent } from './components/about/about.component';
+import { HomeComponent } from './components/pages/home/home.component';
+import { ViolaoComponent } from './components/pages/violao/violao.component';
+import { TecladoComponent } from './components/pages/teclado/teclado.component';
+import { AboutComponent } from './components/pages/about/about.component';
 import { NavbarComponent } from './components/layout/navbar/navbar.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { BiografiaComponent } from './components/biografia/biografia.component';
-import { CentralComponent } from './components/central/central.component';
+import { BiografiaComponent } from './components/pages/biografia/biografia.component';
+import { CentralComponent } from './components/pages/central/central.component';
+import { HeaderComponent } from './components/layout/header/header.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { CentralComponent } from './components/central/central.component';
     AboutComponent,
     NavbarComponent,
     BiografiaComponent,
-    CentralComponent
+    CentralComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

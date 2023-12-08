@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './components/home/home.component';
-import { ViolaoComponent } from './components/violao/violao.component';
-import { TecladoComponent } from './components/teclado/teclado.component';
-import { AboutComponent } from './components/about/about.component';
-import { BiografiaComponent } from './components/biografia/biografia.component';
-import { CentralComponent } from './components/central/central.component';
+import { HomeComponent } from './components/pages/home/home.component';
+import { ViolaoComponent } from './components/pages/violao/violao.component';
+import { TecladoComponent } from './components/pages/teclado/teclado.component';
+import { AboutComponent } from './components/pages/about/about.component';
+import { BiografiaComponent } from './components/pages/biografia/biografia.component';
+import { CentralComponent } from './components/pages/central/central.component';
 
 const routes: Routes = [
   {path: '', redirectTo: '/home', pathMatch: 'full'},
