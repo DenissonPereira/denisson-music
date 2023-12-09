@@ -3,6 +3,8 @@
 @import '../../sass/variables'
 
 .redes
+    margin: 0px
+    padding: 0px
     background-color: $cor-preta
 
 .fig_redes
@@ -18,11 +20,27 @@
     transform: translate(-50%, -50%)
 
 .redes_sociais
+    width: 90em
     font-family: 'Akira'
     display: flex
     flex-direction: column
+    color: $cor-preta
     h1
-        font-size: 4em
+        font-size: 5em
 
     h2
         font-size: 3em
+
+.icones
+    @include center
+    ng-icon
+        justify-content: space-between
+        padding: 1em
+        font-size: 5em
+        color: $cor-branca
+        filter: drop-shadow(10px 8px 6px $cor-preta)
+        cursor: pointer
+        &:hover
+            font-size: 6em   
+            color: $cor-preta
+            filter: drop-shadow(20px 8px 6px $cor-laranja)
