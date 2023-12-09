@@ -20,6 +20,7 @@ import { simpleDeezer, simpleTidal } from '@ng-icons/simple-icons';
 import { RedesComponent } from './components/redes/redes.component';
 import { AgendaComponent } from './components/agenda/agenda.component';
 import { jamNapster } from '@ng-icons/jam-icons';
+import { FooterComponent } from './components/layout/footer/footer.component';
 
 
 @NgModule({
@@ -35,6 +36,7 @@ import { jamNapster } from '@ng-icons/jam-icons';
     HeaderComponent,
     RedesComponent,
     AgendaComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
