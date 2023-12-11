@@ -37,20 +37,27 @@ Convidamos você a explorar a aplicação **"Denisson Music"** em sua versão on
 
 Você precisa ter o npm e o Angular CLI instalados em seu computador. O npm está disponível com o NodeJS 
 
-[![NPM](https://img.shields.io/badge/Clique%20Aqui-8A2BE2)](https://denissonpereira.github.io/denisson-music/home){: style="width: 200px; height: 50px;"}
+[![NPM](https://img.shields.io/badge/Clique%20Aqui-8A2BE2)](https://nodejs.org/en)
 
-
-. Após instalar o npm, instale o Angular CLI digitando o seguinte comando no seu terminal.
-
-No diretório do projeto, execute os comandos:
+Após instalar o npm, instale o Angular CLI digitando o seguinte comando no seu terminal:
 
 ```
-npm install -y
+npm install -g @angular/cli
 ```
 
+## Tudo pronto!
+
+Agora basta executar o projeto com o comando:
+
 ```
-npm run dev
+ng serve
 ```
+
+Aguarde a conclusão da compilação e vá para http://localhost:4200 após o término da compilação.
+
+>## 🚨 Aguarde! Ainda não terminou!
+
+>O projeto em questão não representa uma entidade real; é puramente didático e fictício. No entanto, todos são encorajados a utilizar e contribuir livremente.
 
 # Autor
 
