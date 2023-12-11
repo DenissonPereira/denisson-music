@@ -1,27 +1,59 @@
 # Denisson Music
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/denisson-music/blob/main/LICENSE) 
 
-## Development server
+# Explore a Aplicação em Funcionamento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Convidamos você a explorar a aplicação **"Denisson Music"** em sua versão online: 
 
-## Code scaffolding
+[![NPM](https://img.shields.io/badge/Clique%20Aqui-8A2BE2)](https://denissonpereira.github.io/denisson-music/home)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Sobre o projeto
 
-## Build
+**Denisson Music** é uma aplicação *Angular* concebida como um site fictício dedicado a músicos. Este projeto envolveu o uso de *TypeScript* para a lógica do lado do cliente, *Bootstrap* para garantir uma experiência de usuário responsiva e *Sass* para estilização avançada. É crucial destacar que o **Denisson Music** não corresponde a uma entidade real no mundo físico ou digital. Sua existência é estritamente didática, servindo como um exercício de aprendizado e prática de desenvolvimento web. **Todos os elementos presentes no projeto são fictícios e não devem ser considerados para fins lucrativos ou comerciais**. O caráter educativo do Denisson Music prevalece, proporcionando uma oportunidade valiosa para explorar e aplicar conceitos essenciais de desenvolvimento web em um contexto simulado e controlado.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Layout web
+![Web 1](./public/web1.png) 
 
-## Running unit tests
+![Web 2](./public/web2.png) 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Layout mobile
+![Mobile 1](./public/mob1.jpg) ![Mobile 2](./public/mob2.jpg)
 
-## Running end-to-end tests
+# Tecnologias utilizadas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Angular;
+- Sass;
+- TypeScript;
+- Bootstrap.
 
-## Further help
+## Implantação em produção
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Web: `GitHub Pages`
+
+# Como executar o projeto
+
+## Pré-requisitos
+
+Você precisa ter o npm e o Angular CLI instalados em seu computador. O npm está disponível com o NodeJS 
+
+[![NPM](https://img.shields.io/badge/Clique%20Aqui-8A2BE2)](https://denissonpereira.github.io/denisson-music/home){: style="width: 200px; height: 50px;"}
+
+
+. Após instalar o npm, instale o Angular CLI digitando o seguinte comando no seu terminal.
+
+No diretório do projeto, execute os comandos:
+
+```
+npm install -y
+```
+
+```
+npm run dev
+```
+
+# Autor
+
+Denisson Pereira Santos
+
+https://github.com/DenissonPereira
