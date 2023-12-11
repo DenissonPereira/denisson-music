@@ -13,7 +13,7 @@ Convidamos você a explorar a aplicação **"Denisson Music"** em sua versão on
 **Denisson Music** é uma aplicação *Angular* concebida como um site fictício dedicado a músicos. Este projeto envolveu o uso de *TypeScript* para a lógica do lado do cliente, *Bootstrap* para garantir uma experiência de usuário responsiva e *Sass* para estilização avançada. É crucial destacar que o **Denisson Music** não corresponde a uma entidade real no mundo físico ou digital. Sua existência é estritamente didática, servindo como um exercício de aprendizado e prática de desenvolvimento web. **Todos os elementos presentes no projeto são fictícios e não devem ser considerados para fins lucrativos ou comerciais**. O caráter educativo do Denisson Music prevalece, proporcionando uma oportunidade valiosa para explorar e aplicar conceitos essenciais de desenvolvimento web em um contexto simulado e controlado.
 
 ## Layout web
-![Web 1](./public/web1.png) 
+![Web 1](./public/denis-music.gif) 
 
 ![Web 2](./public/web2.png) 
 
