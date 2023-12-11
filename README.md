@@ -37,7 +37,7 @@ Convidamos você a explorar a aplicação **"Denisson Music"** em sua versão on
 
 Você precisa ter o npm e o Angular CLI instalados em seu computador. O npm está disponível com o NodeJS 
 
-[![NPM](https://img.shields.io/badge/Clique%20Aqui-228B22)](https://nodejs.org/en)
+[![NPM](https://img.shields.io/badge/NodeJS-228B22)](https://nodejs.org/en)
 
 Após instalar o npm, instale o Angular CLI digitando o seguinte comando no seu terminal:
 
