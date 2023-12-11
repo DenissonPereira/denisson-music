@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './redes.component.sass'
 })
 export class RedesComponent {
-  show: string = '/assets/images/show.jpg'
+  show: string = 'assets/images/show.jpg'
 }
