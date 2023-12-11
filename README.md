@@ -35,7 +35,7 @@ Convidamos você a explorar a aplicação **"Denisson Music"** em sua versão on
 
 ## Pré-requisitos
 
-Você precisa ter o npm e o Angular CLI instalados em seu computador. O npm está disponível com o NodeJS 
+Você precisa ter o npm e o Angular CLI instalados em seu computador. O npm está disponível com o NodeJS, e para baixá-lo, basta clicar no link abaixo:
 
 [![NPM](https://img.shields.io/badge/NodeJS-228B22)](https://nodejs.org/en)
 
