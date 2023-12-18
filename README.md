@@ -29,6 +29,8 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 [![Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Badge](https://img.shields.io/badge/Node.js-v21.4.0-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
+[![Badge](https://img.shields.io/badge/Angular%20Icons-v12.1.0-red?style=flat&logo=angular&logoColor=white)](https://angular.io/guide/elements)
+
 
 
 ## 🌐 Implantação em produção
