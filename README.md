@@ -19,7 +19,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 ![Web 1](./public/denis-music.gif) 
 
 ### 📱 Layout mobile
-![Mobile 1](./public/mob1.jpg) ![Mobile 2](./public/mob2.jpg)
+![Mobile 1](./public/mob1.gif) ![Mobile 2](./public/mob2.gif)
 
 ## 📚 Stack Tecnológica
 
