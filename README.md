@@ -28,7 +28,7 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 [![Badge](https://img.shields.io/badge/Sass-purple?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Badge](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Badge](https://img.shields.io/badge/Node.js-v21.4.0-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Badge](https://img.shields.io/badge/React_Bootstrap-v2.9.1-purple?style=flat&logo=bootstrap&logoColor=white)](https://react-bootstrap.netlify.app/)
+[![Badge](https://img.shields.io/badge/NG_Bootstrap-v16.0.0-purple?style=flat&logo=bootstrap&logoColor=white)](https://ng-bootstrap.github.io/)
 [![Badge](https://img.shields.io/badge/Icons-v12.1.0-dodgerblue?style=flat&logo=angular&logoColor=white)](https://angular.io/guide/elements)
 
 
@@ -76,4 +76,8 @@ Copyright (c) 2023 Denisson Pereira Santos.
 
 Denisson Pereira Santos
 
-https://github.com/DenissonPereira
+<div> 
+<a href="https://www.instagram.com/denisson_pereira1?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/denisson-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://denissonpereira.com" target="_blank"><img src="https://img.shields.io/badge/Meu%20Site-%23000000?style=for-the-badge&logo=fontawesome&logoColor=white&logoWidth=15&labelColor=black"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
